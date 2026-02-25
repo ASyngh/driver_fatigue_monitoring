@@ -1,37 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0ca759a-4f6f-4f7a-8d35-2b43fa7680de" name="Changes" comment="" />
+    <list default="true" id="e0ca759a-4f6f-4f7a-8d35-2b43fa7680de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/critical.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/warning.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/calibration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/session_logs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/logs/session_logs.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/display.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/display.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/eye_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/eye_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/face_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/face_detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/fatigue_logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/fatigue_logic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/head_pose.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/head_pose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/landmarks.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/landmarks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mouth_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/mouth_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/preprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ASyngh&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="55c1272e-66ad-4f7b-b277-52c1bd5b7be6" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ASyngh/driver_fatigue_monitoring.git",
+    "accountId": "55c1272e-66ad-4f7b-b277-52c1bd5b7be6"
+  }
 }]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="39z9Fn7hYzEhRYpQXva61vDqyrL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/KIIT0001/PycharmProjects/driver_fatigue_monitoring/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KIIT0001\PycharmProjects\driver_fatigue_monitoring\assets" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
-        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
       </set>
     </attachedChunks>
   </component>
@@ -43,8 +111,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771687930597</updated>
-      <workItem from="1771687931726" duration="21000" />
+      <workItem from="1771687931726" duration="6886000" />
+      <workItem from="1771714076761" duration="735000" />
+      <workItem from="1771826138681" duration="13944000" />
+      <workItem from="1771940949468" duration="9227000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
