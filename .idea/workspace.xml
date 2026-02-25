@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0ca759a-4f6f-4f7a-8d35-2b43fa7680de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/critical.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/warning.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/alert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/calibration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/session_logs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/logs/session_logs.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/display.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/display.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/eye_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/eye_analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/face_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/face_detector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/fatigue_logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/fatigue_logic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/head_pose.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/head_pose.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/landmarks.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/landmarks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/logger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mouth_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/mouth_analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/preprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="e0ca759a-4f6f-4f7a-8d35-2b43fa7680de" name="Changes" comment="Driver Fatigue Monitoring System - Modular Version with Calibration &amp; Alerts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,11 +94,24 @@
       <workItem from="1771687931726" duration="6886000" />
       <workItem from="1771714076761" duration="735000" />
       <workItem from="1771826138681" duration="13944000" />
-      <workItem from="1771940949468" duration="9227000" />
+      <workItem from="1771940949468" duration="9575000" />
     </task>
+    <task id="LOCAL-00001" summary="Driver Fatigue Monitoring System - Modular Version with Calibration &amp; Alerts">
+      <option name="closed" value="true" />
+      <created>1771993135867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771993135867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Driver Fatigue Monitoring System - Modular Version with Calibration &amp; Alerts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Driver Fatigue Monitoring System - Modular Version with Calibration &amp; Alerts" />
   </component>
 </project>
